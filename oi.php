@@ -1,4 +1,4 @@
 <?php
-$minha_variavel = "Olá mundo";
+echo = "Olá mundo";
 
 ?>
